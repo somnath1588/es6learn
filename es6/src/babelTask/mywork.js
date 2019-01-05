@@ -12,3 +12,10 @@ let Object_Val = [{name:'dinesh',age:45},{name:'ram',age:30}];
 function test(){
 
 }
+
+export interface student{
+
+	id:number;
+	name:string;
+	city:string;
+}
